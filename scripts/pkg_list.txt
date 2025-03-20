@@ -1,0 +1,16 @@
+gcc curl git vim openssh-server net-tools pkg-config libssl-dev iproute2 make perl
+sqlite3 libsqlite3-dev
+net-tools iputils-ping bridge-utils
+clang
+gnutls-bin libgnutls28-dev
+mingw-w64 cmake nasm
+sshpass
+tshark
+nmap
+snort
+python3 python3-pip idstools
+ntp
+libpcap-dev
+virtualbox-7.0
+ca-certificates
+docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin docker-compose
